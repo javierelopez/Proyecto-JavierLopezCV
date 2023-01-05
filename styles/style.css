@@ -1,0 +1,27 @@
+
+    
+        body {background-color:#ecf5b9 ;}
+        h1   {color: blue;
+              font-family: 'Sevillana', cursiva;}
+        h2   {color: rgb(60, 255, 0);}
+        h3   {color: rgb(255, 0, 0);}
+        p    {color: rgb(47, 70, 116);}
+/**
+Esto es un comentario dentro del documento css */        
+section {
+
+width: 300px;
+border: 15px solid green;
+padding: 30px 20px 25px 20px;
+margin: 20px 10px 20px 10px;
+
+}
+ #mi_parrafo {
+        color: blueviolet;
+        font-size: 23px ;
+        border: 1px solid orange;
+ }  
+ .estaesmiclase {
+        font-weight: 200;
+        color: blue;
+ }
