@@ -3,11 +3,11 @@
 
 /* Variables de color */
 :root {
-    --white-color: #F2F2F2;
-    --black-color: #262626;
-    --grey-color: #696969;
-    --lightgrey-color: #BFBFBF;
-    --gold-color: #F1A930;
+    --white-color: #e1ecb8;
+    --black-color: #100f0f;
+    --grey-color: #79d6fe;
+    --lightgrey-color: #b4acac;
+    --gold-color: #8043e2;
 }
 
 /* Reinicio de base */
@@ -49,6 +49,7 @@ h3 {
 h4 {
     font-family: 'Montserrat', sans-serif;
     margin: 0;
+    color: #000;
 }
 
 section {
@@ -277,7 +278,7 @@ ul>li.habilidades-destacadas {
     content: '';
     display: block;
     background: var(--gold-color);
-    width: 95%;
+    width: 55%;
     height: 100%;
     border-radius: 9px;
 }
@@ -294,7 +295,7 @@ ul>li.habilidades-destacadas {
     content: '';
     display: block;
     background: var(--gold-color);
-    width: 85%;
+    width: 55%;
     height: 100%;
     border-radius: 9px;
 }
@@ -311,7 +312,7 @@ ul>li.habilidades-destacadas {
     content: '';
     display: block;
     background: var(--gold-color);
-    width: 85%;
+    width: 60%;
     height: 100%;
     border-radius: 9px;
 }
@@ -328,7 +329,7 @@ ul>li.habilidades-destacadas {
     content: '';
     display: block;
     background: var(--gold-color);
-    width: 85%;
+    width: 50%;
     height: 100%;
     border-radius: 9px;
 }
@@ -345,7 +346,7 @@ ul>li.habilidades-destacadas {
     content: '';
     display: block;
     background: var(--gold-color);
-    width: 80%;
+    width: 60%;
     height: 100%;
     border-radius: 9px;
 }
@@ -362,7 +363,7 @@ ul>li.habilidades-destacadas {
     content: '';
     display: block;
     background: var(--gold-color);
-    width: 85%;
+    width: 50%;
     height: 100%;
     border-radius: 9px;
 }
