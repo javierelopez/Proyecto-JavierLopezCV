@@ -142,7 +142,7 @@ ul.navbarlist {
 #imagen {
 
     display:inline-block;
-    background-image: url ("Desarrolloweb/Proyecto CV/imagen/perfil2.jpg");
+    background-image: url ("/imagen/perfil.jpg");
     background-size: cover;
     background-position:center;
     background-repeat:no-repeat;	
