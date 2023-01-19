@@ -142,7 +142,7 @@ ul.navbarlist {
 #imagen {
 
     display:inline-block;
-    background-image: url("../image/foto.jpg");
+    background-image: url(".. /imagen/perfil2.jpg");
     background-size: cover;
     background-position:center;
     background-repeat:no-repeat;	
