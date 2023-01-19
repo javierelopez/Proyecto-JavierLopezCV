@@ -226,13 +226,14 @@ div.clientes {
 }
 
 .div-color1, .div-color3 {
-    background-color: var(--lightgrey-color);
-    border: 2px solid var(--lightgrey-color);
+    background-color: rgb(226, 231, 226);
+    border: 2px solid rgb(226, 231, 226);
 }
 
 .div-color2 {
-    background-color: var(--white-color);
-    border: 2px solid var(--lightgrey-color);
+    background-color: rgb(164, 165, 164);
+    border: 2px solid  rgb(164, 165, 164
+    );
 }
 
 ul>li.tarea {
