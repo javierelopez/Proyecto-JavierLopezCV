@@ -142,12 +142,13 @@ ul.navbarlist {
 #imagen {
 
     display:inline-block;
-    background-image: url(".. /imagen/perfil2.jpg");
+    background-image: url ("Desarrolloweb/Proyecto CV/imagen/perfil2.jpg");
     background-size: cover;
     background-position:center;
     background-repeat:no-repeat;	
     width:35%; 
     height: 310px;   
+    
 }
 
 #presentacion {
@@ -368,7 +369,7 @@ ul>li.habilidades-destacadas {
 
 /* Sección formación */
 #formacion {
-    background-color: var(--white-color);
+    background-color: var(--black-color);
     width:100%; 
     height: auto;
 }
