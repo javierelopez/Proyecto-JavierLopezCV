@@ -4,10 +4,10 @@
 /* Variables de color */
 :root {
     --white-color: #e1ecb8;
-    --black-color: #100f0f;
-    --grey-color: #79d6fe;
+    --black-color: #292727;
+    --grey-color: #b8bfc2;
     --lightgrey-color: #b4acac;
-    --gold-color: #8043e2;
+    --purple-color: #8043e2;
 }
 
 /* Reinicio de base */
@@ -79,8 +79,8 @@ span {
 }
 
 mark {
-    color: var(--white-color);
-    background-color: var(--gold-color);
+    color: var(--black-color);
+    background-color: var(--purple-color);
 }
 
 .subtitulos {
@@ -143,7 +143,7 @@ ul.navbarlist {
 #imagen {
 
     display:inline-block;
-    background-image: url ("/imagen/perfil.jpg");
+    background-image: url ("C:\\Users\\javie\\Documents\\Desarrolloweb\\Proyecto CV\\imagen\\perfil.jpg");
     background-size: cover;
     background-position:center;
     background-repeat:no-repeat;	
@@ -212,11 +212,11 @@ ul>li.telefono {
 }
 
 #cliente1, #cliente3 {
-    color: var(--white-color);
+    color: var(--black-color);
 }
 
 #cliente2 {
-    color: var(--grey-color);
+    color: var(--black-color);
 }
 
 div.clientes {
@@ -278,7 +278,7 @@ ul>li.habilidades-destacadas {
 #barra-progreso1:after {
     content: '';
     display: block;
-    background: var(--gold-color);
+    background: var(--purple-color);
     width: 55%;
     height: 100%;
     border-radius: 9px;
@@ -295,7 +295,7 @@ ul>li.habilidades-destacadas {
 #barra-progreso2:after {
     content: '';
     display: block;
-    background: var(--gold-color);
+    background: var(--purple-color);
     width: 55%;
     height: 100%;
     border-radius: 9px;
@@ -312,7 +312,7 @@ ul>li.habilidades-destacadas {
 #barra-progreso3:after {
     content: '';
     display: block;
-    background: var(--gold-color);
+    background: var(--purple-color);
     width: 60%;
     height: 100%;
     border-radius: 9px;
@@ -329,7 +329,7 @@ ul>li.habilidades-destacadas {
 #barra-progreso4:after {
     content: '';
     display: block;
-    background: var(--gold-color);
+    background: var(--purple-color);
     width: 50%;
     height: 100%;
     border-radius: 9px;
@@ -346,7 +346,7 @@ ul>li.habilidades-destacadas {
 #barra-progreso5:after {
     content: '';
     display: block;
-    background: var(--gold-color);
+    background: var(--purple-color);
     width: 60%;
     height: 100%;
     border-radius: 9px;
@@ -363,7 +363,7 @@ ul>li.habilidades-destacadas {
 #barra-progreso6:after {
     content: '';
     display: block;
-    background: var(--gold-color);
+    background: var(--purple-color);
     width: 50%;
     height: 100%;
     border-radius: 9px;
@@ -371,7 +371,7 @@ ul>li.habilidades-destacadas {
 
 /* Sección formación */
 #formacion {
-    background-color: var(--black-color);
+    background-color: rgb(129, 160, 126);
     width:100%; 
     height: auto;
 }
@@ -381,11 +381,11 @@ ul>li.habilidades-destacadas {
 }
 
 #academia1 {
-    color: var(--white-color);
+    color: var(--black-color);
 }
 
 #academia2 {
-    color: var(--grey-color);
+    color: var(--black-color);
 }
 
 button {
@@ -413,5 +413,5 @@ button {
 }
 
 .fa-heart {
-  color: tomato;
-}
+    color: tomato;
+  }
