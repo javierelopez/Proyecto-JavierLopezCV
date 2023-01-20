@@ -1,9 +1,0 @@
-#imagen {
-    display:inline-block;
-    background-image: url("../image/perfil1.jpg");
-    background-size: cover;
-    background-position:center;
-    background-repeat:no-repeat;	
-    width:35%; 
-    height: 310px;   
-}
