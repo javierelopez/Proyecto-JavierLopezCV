@@ -401,17 +401,6 @@ button {
     display: none;
 }
 
-/* Autor */
-.copyright {
-    margin-bottom: 2px;
-}
 
-#copyright-tag {
-	font-size: 10px;
-	text-align: center;
-	position: relative;
-}
 
-.fa-heart {
-    color: tomato;
-  }
+
